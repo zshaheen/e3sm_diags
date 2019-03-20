@@ -4,7 +4,7 @@ package:
 
 source:
     #path: ..
-    git_url: https://github.com/E3SM-Project/e3sm_diags
+    git_url: https://github.com/zshaheen/e3sm_diags
     git_rev: v1.6.1
 
 build:
@@ -36,5 +36,5 @@ requirements:
     - lxml
 
 about:
-    home: https://github.com/E3SM-Project/e3sm_diags
+    home: https://github.com/zshaheen/e3sm_diags
     summary: Diagnostics package for the DOE's Energy Exascale Earth System Model (E3SM) project.
